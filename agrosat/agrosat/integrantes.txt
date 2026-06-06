@@ -1,28 +1,17 @@
 ====================================================
   INTEGRANTES DO PROJETO — AgroSat
   Matéria 4: Front-End Design
-  FIAP — 2025
+  FIAP — 2026
 ====================================================
 
 Nome: Ana Lima
 RM: 123456
-Turma: 1TDSA
+Turma: 1ESPV
 
-Nome: Bruno Souza
-RM: 234567
-Turma: 1TDSA
+Nome: Vinicius Scalone
+RM: 573783
+Turma: 1ESPV
 
-Nome: Carla Mendes
-RM: 345678
-Turma: 1TDSA
-
-Nome: Diego Ferreira
-RM: 456789
-Turma: 1TDSA
-
-Nome: Eduarda Costa
-RM: 567890
-Turma: 1TDSA
 
 ====================================================
   >> Substitua os dados acima com os nomes e RMs
